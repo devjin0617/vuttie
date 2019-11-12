@@ -8,6 +8,7 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "main": "src/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/devjin0617/vuttie"
