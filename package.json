@@ -1,6 +1,6 @@
 {
   "name": "vuttie",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Support for using lottie with vue.",
   "author": "devjin0617 <devjin0617@gmail.com>",
   "scripts": {

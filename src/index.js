@@ -1,4 +1,5 @@
 import Vuttie from './components/Vuttie.vue'
+const version = require('../package.json').version
 
 const components = [
   Vuttie
@@ -10,7 +11,7 @@ const install = function (Vue, otps = {}) {
 }
 
 export default {
-  version: '0.0.1',
+  version,
   install,
   Vuttie
 }
