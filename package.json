@@ -1,12 +1,30 @@
 {
   "name": "vuttie",
   "version": "0.1.0",
-  "private": true,
+  "description": "Support for using lottie with vue.",
+  "author": "devjin0617 <devjin0617@gmail.com>",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devjin0617/vuttie"
+  },
+  "keywords": [
+    "vue",
+    "lottie",
+    "airbnb",
+    "animation",
+    "anime",
+    "gif",
+    "sprite"
+  ],
+  "bugs": {
+    "url": "https://github.com/devjin0617/vuttie/issues"
+  },
+  "hompage": "https://github.com/devjin0617/vuttie#readme",
   "dependencies": {
     "core-js": "^3.3.2",
     "lottie-web": "^5.5.9",
