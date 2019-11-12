@@ -4,7 +4,7 @@
 
 <script>
 import lottie from 'lottie-web'
-import jsonFile from '@/assets/sample.json'
+import jsonFile from '../assets/sample.json'
 export default {
   name: 'Vuttie',
   mounted () {
