@@ -6,7 +6,7 @@
 import lottie from 'lottie-web'
 import jsonFile from '@/assets/sample.json'
 export default {
-  name: 'vuttie',
+  name: 'Vuttie',
   mounted () {
     lottie.loadAnimation({
       container: this.$refs.vuttieContainer,
