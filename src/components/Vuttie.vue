@@ -8,7 +8,7 @@ import lottie from 'lottie-web'
 import jsonFile from '../assets/sample.json'
 export default {
   name: 'Vuttie',
-  props: ['loop', 'autoplay', 'data', 'options'],
+  props: ['loop', 'autoplay', 'data', 'options', 'type'],
   mounted () {
     lottie.loadAnimation({
       container: this.$refs.vuttieContainer,
